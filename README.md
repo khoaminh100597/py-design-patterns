@@ -1,1 +1,1 @@
-# py-design-patterns
+# Python Design Patterns Tutorial
